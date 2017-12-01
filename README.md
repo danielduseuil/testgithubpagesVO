@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome VO Blockchain
 
 You can use the [editor on GitHub](https://github.com/danielduseuil/testgithubpagesVO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
